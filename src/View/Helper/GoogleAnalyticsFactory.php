@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace OpenTickets\GoogleAnalytics\View\Helper;
+namespace ConferenceTools\GoogleAnalytics\View\Helper;
 
 use Zend\ServiceManager\AbstractPluginManager;
 use Zend\ServiceManager\ServiceLocatorInterface;

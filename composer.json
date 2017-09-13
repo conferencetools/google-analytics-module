@@ -1,0 +1,23 @@
+{
+  "name": "conferencetools/googleanalytics",
+  "description": "Google Analytics integration",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0.5",
+    "zendframework/zend-servicemanager": "^2.5",
+    "zendframework/zend-view": "^2.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "ConferenceTools\\GoogleAnalytics\\": "src"
+    }
+  },
+  "require-dev": {
+    "mockery/mockery": "~0.9.1",
+    "phpunit/phpunit": "^5.7"
+
+  },
+  "platform": {
+    "php": "7.0.0"
+  }
+}

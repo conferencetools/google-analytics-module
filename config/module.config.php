@@ -1,6 +1,6 @@
 <?php
 
-use OpenTickets\GoogleAnalytics\View\Helper\GoogleAnalyticsFactory;
+use ConferenceTools\GoogleAnalytics\View\Helper\GoogleAnalyticsFactory;
 
 return [
     'view_helpers' => [

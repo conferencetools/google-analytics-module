@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace OpenTickets\GoogleAnalytics;
+namespace ConferenceTools\GoogleAnalytics;
 
 final class Module
 {
